@@ -64,3 +64,4 @@ except KeyboardInterrupt:
     clear()
     print(PINK + "loveyoumalove ♥" + RESET)
     print("Program dihentikan.")
+
